@@ -1,0 +1,32 @@
+#round1 {
+  border-radius: 10px 45px 12px 45px;
+  background-color: #73ad27;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#round2 {
+  border-radius: 45px 1px 45px;
+  background-color: red;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#round3 {
+  border-radius: 45px 34px;
+  background-color: blue;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+.round4 {
+    margin: auto;
+  border: 1px solid rgba(185, 185, 185, 0.671);
+  border-radius: 0 0 9px 9px;
+  width: 40%;
+  height: 15%;
+}
+.round4>h1{
+    margin: 0%;
+    background-color: rgb(106, 176, 222);
+}
